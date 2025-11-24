@@ -11,8 +11,8 @@ Empirical study of scaling laws in computer vision using ResNet-18/50/101 on Ima
 ## Repository Contents
 - `Scaling_Laws_Report.pdf` – Complete 13-page report  
 - `pipeline.py` – Object detection & preprocessing with SAM (ViT-B), Otsu’s thresholding, morphological operations, HSV filtering  
-- `model_size_vs_loss.py` – Trains ResNet-18/50/101 on 200-image set → `model_size_loss.csv`  
-- `dataset_size_vs_loss.py` – Trains ResNet18 on 100/200/300-image sets → `dataset_size_loss.csv`  
+- `model_size_vs_loss.py` – Trains ResNet-18/50/101 on 200-image set  
+- `dataset_size_vs_loss.py` – Trains ResNet18 on 100/200/300-image sets  
 - `model_size_loss.csv` – Columns: `image_name`, `loss_18`, `loss_50`, `loss_101`  
 - `dataset_size_loss.csv` – Columns: `image_name`, `loss_100`, `loss_200`, `loss_300`
 
