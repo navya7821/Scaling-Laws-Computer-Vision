@@ -52,7 +52,7 @@ This work was further extended into a structured research study:
 - Incorporates multiple representation metrics (ℓ2 norm, variance, effective rank)  
 - Provides a more comprehensive analysis of scaling behavior  
 
-📄 **Publication Repository:** [Link coming soon]
+📄 **Publication Repository:** https://github.com/navya7821/representation-scaling-vision-models
 
 
 ## Repository Structure
