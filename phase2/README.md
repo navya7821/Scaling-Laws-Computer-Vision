@@ -39,7 +39,7 @@ The goal is to understand how **model architecture, depth, and dataset size** in
 
 ### 3. Scaling law behavior
 - ResNet: α ≈ -0.326 → **unstable, depth-sensitive scaling**  
-- DenseNet: α ≈ -0.028 → **near-invariant, stable scaling** :contentReference[oaicite:0]{index=0}  
+- DenseNet: α ≈ -0.028 → **near-invariant, stable scaling** 
 
 ### 4. Representation stability differences
 - DenseNet: smooth, bounded, and consistent behavior  
